@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Cluck n' Rice
-image: /img/home-jumbotron.jpg
+image: /img/photo-1590119227988-a20d53ce33c0.jpeg
 heading: Great coffee with a conscience
 subheading: Lorem Ipsum Dolor
 mainpitch:
