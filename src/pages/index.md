@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Euphoric Body
-image: /img/home-jumbotron.jpg
+title: Cluck n' Rice
+image: /img/photo-1590119227988-a20d53ce33c0.jpeg
 heading: Great coffee with a conscience
 subheading: Lorem Ipsum Dolor
 mainpitch:
