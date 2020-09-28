@@ -2,6 +2,7 @@
 templateKey: index-page
 title: Cluck n' Rice
 image: /img/photo-1590119227988-a20d53ce33c0.jpeg
+logo: /img/cluck-n-rice-logo.png
 heading: Authentic Khao Man Gai Thai Chicken Rice
 subheading: Lorem Ipsum Dolor
 mainpitch:
