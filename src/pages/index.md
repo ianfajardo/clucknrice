@@ -2,20 +2,19 @@
 templateKey: index-page
 title: Cluck n' Rice
 image: /img/photo-1590119227988-a20d53ce33c0.jpeg
-heading: Great coffee with a conscience
+heading: Authentic Khao Man Gai Thai Chicken Rice
 subheading: Lorem Ipsum Dolor
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: About Us
+  description: >+
+    Cluck N' Rice focuses on Khao Man Gai or Thai Chicken Rice. We source
+    quality ingredients paired with traditional recipes and techniques .
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Khao Man Gai or Thai Chicken Rice is a dish originating from Hainan in
+  southern China comprised of poached chicken and seasoned fragrant rice usually
+  served with a chili sauce, cucumbers, and soup.  Khao Man Gai is one of
+  Thailand's most popular street dishes and comfort food.
 intro:
   blurbs: []
   heading: What we offer
