@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
+import Img from 'gatsby-image'
 
 import Layout from "../components/Layout";
 import Features from "../components/Features";
@@ -16,6 +17,7 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => (
+  
   <div>
     <div
       className="jumbo-header full-width-image margin-top-0"
@@ -41,14 +43,15 @@ export const IndexPageTemplate = ({
       >
         <div className="columns">
           <div className="column is-half">
-            <img
-              className="jumbo-logo"
-              src={
-                !!logo.childImageSharp ? logo.childImageSharp.fluid.src : logo
-              }
-              alt="Cluck N' Rice Logo"
+
+          {!!logo && !!logo.childImageSharp
+          ? <Img className="jumbo-logo" fluid={logo.childImageSharp.fluid}
+                 alt={title}
             />
-            z
+          : <img className="jumbo-logo" src={logo}
+                 alt={title} 
+           />
+        }
           </div>
           <div className="column is-half">
             <h1
@@ -179,6 +182,7 @@ export const pageQuery = graphql`
             }
           }
         }
+        
         logo {
           childImageSharp {
             fluid(maxWidth: 960, quality: 100) {
@@ -186,6 +190,7 @@ export const pageQuery = graphql`
             }
           }
         }
+
         heading
         subheading
         mainpitch {
