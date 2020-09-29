@@ -1,14 +1,16 @@
 ---
 templateKey: index-page
-title: Cluck n' Rice
+title: Authentic Khao Man Gai Thai Chicken Rice
 image: /img/photo-1590119227988-a20d53ce33c0.jpeg
+logo: /img/cluck-n-rice-logo.png
 heading: Authentic Khao Man Gai Thai Chicken Rice
-subheading: Lorem Ipsum Dolor
+subheading: Cluck N' Rice focuses on Khao Man Gai or Thai Chicken Rice. We source
+    quality ingredients paired with traditional recipes and techniques.
 mainpitch:
   title: About Us
   description: >+
     Cluck N' Rice focuses on Khao Man Gai or Thai Chicken Rice. We source
-    quality ingredients paired with traditional recipes and techniques .
+    quality ingredients paired with traditional recipes and techniques.
 
 description: >-
   Khao Man Gai or Thai Chicken Rice is a dish originating from Hainan in
