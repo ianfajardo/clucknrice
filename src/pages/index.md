@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Authentic Khao Man Gai Thai Chicken Rice
 image: /img/photo-1590119227988-a20d53ce33c0.jpeg
-logo: /img/cluck-n-rice-logo-copy.png
+logo: /img/cluck-n-rice-logo.png
 heading: Authentic Khao Man Gai Thai Chicken Rice
 subheading: >-
   Cluck N' Rice focuses on Khao Man Gai or Thai Chicken Rice. We source quality
